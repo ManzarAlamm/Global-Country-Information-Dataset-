@@ -1,4 +1,4 @@
-                                                                      **** Global Country Information Dataset 2023 ****
+                                                                **Global Country Information Dataset 2023 **
                                                                       
 Project Overview: This comprehensive dataset provides extensive information on countries around the world, covering a wide range of indicators and attributes. These include demographic statistics, economic indicators, environmental factors, healthcare metrics, education statistics, and more. The project utilizes various tools, such as MySQL Workbench, PowerPoint, Power BI, and a detailed project report, to analyze and identify key sources in healthcare, economic indicators, environmental factors, and the education sector.
 
